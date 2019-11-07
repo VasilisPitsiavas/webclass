@@ -1,0 +1,38 @@
+
+body {
+  background-color:#96a8c8;
+  font-family: Arial,#333,serif; }
+
+.romance {
+  color:#ac2d2d; }
+
+.sarcasm {
+  color:#30ac2d; }
+
+.math {
+  color:#2d45ac; }
+
+.language {
+  color: #e99613; }
+
+#header {
+  background-color:white;
+  border-style: solid;
+  border-color:black;
+}
+
+#comic {
+  background-color: white;
+  border-style:solid;
+  border-color:black;
+  text-align: center; }
+
+#menu {
+  background-color: white;
+  border-style: solid;
+  border-color:black; }
+
+#menu a {
+  color: black;
+  font-size: 15pt;
+  border-bottom: 1px black dotted; }
